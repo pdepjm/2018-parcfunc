@@ -1,4 +1,4 @@
-# 2018-parcfunc-talentoayudantino
+# 2018 Parciales funcional 
 
 Base para entregar el Parcial de funcional. Cursos Jueves mañana
 
