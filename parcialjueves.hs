@@ -127,7 +127,4 @@ mejorBuffPara:: (Personaje->Float) ->Clan -> Personaje -> Buff
 mejorBuffPara accion clan personaje = maximoSegun (accion.potenciar personaje) (buffs clan)
 
 
---quedo heavy este punto!!
-
-
 
